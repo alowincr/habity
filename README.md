@@ -50,19 +50,19 @@
 <div align="center">
 
 ### 🏠 Dashboard Principal
-<img src="./screenshots/dashboard-habity.png" width="85%" />
+<img src="./screenshots/dashboard-habity.png" width="75%" />
 <p><i>Vista general del progreso, hábitos activos y resumen diario.</i></p>
 
 ---
 
 ### 📊 Panel de Estadísticas
-<img src="./screenshots/panel-habity.png" width="85%" />
+<img src="./screenshots/panel-habity.png" width="60%" />
 <p><i>Gráficos de rendimiento, cumplimiento semanal y métricas clave.</i></p>
 
 ---
 
 ### 📆 Calendario de Progreso
-<img src="./screenshots/dashboard2-habity.png" width="85%" />
+<img src="./screenshots/dashboard2-habity.png" width="60%" />
 <p><i>Mapa visual de consistencia y actividad histórica.</i></p>
 
 ---
@@ -85,7 +85,7 @@
 <br />
 
 ### 📄 Exportación PDF
-<img src="./screenshots/pdf-habity.png" width="70%" />
+<img src="./screenshots/pdf-habity.png" width="55%" />
 <p><i>Reporte profesional descargable del progreso diario.</i></p>
 
 </div>
